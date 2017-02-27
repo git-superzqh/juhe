@@ -1,0 +1,17 @@
+{
+    "name": "z0y/juhe",
+    "description": "聚合接口、短信API",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "z0y",
+            "email": "zhao0yan@qq.com"
+        }
+    ],
+    "autoload": {
+        
+        "files": [
+            "src/Juhe.php"
+        ]
+    }
+}
