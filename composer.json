@@ -9,7 +9,9 @@
         }
     ],
     "autoload": {
-        
+        "psr-4": {
+            "z0y\\": "src"
+        },
         "files": [
             "src/Juhe.php"
         ]
